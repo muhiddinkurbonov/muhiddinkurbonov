@@ -37,6 +37,8 @@
 <a href="certs/java.pdf" target="_blank">Java</a>
 <br><br>
 
+<h3 align="left">Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhiddinkurbonov&show_icons=true&locale=en&layout=compact" alt="muhiddinkurbonov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhiddinkurbonov&show_icons=true&locale=en" alt="muhiddinkurbonov" /></p>
