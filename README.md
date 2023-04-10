@@ -2,13 +2,11 @@
 <h3 align="center">A junior software engineer from Glen Ellyn, IL</h3><br>
 
 
-- 🔭 I’m currently working on [Page Point Blank](https://github.com/muhiddinkurbonov/Page-Point-Blank)
+- 🔭 I’m currently working on [BugTrakr](https://github.com/muhiddinkurbonov/bugtrakr-backend)
 
 - 🌱 I’m currently learning **Java Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhiddinkurbonov](https://github.com/muhiddinkurbonov)
-
-- 👯 I’m looking to collaborate on [Bug Tracker](https://github.com/muhiddinkurbonov/bug-tracker-client)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
