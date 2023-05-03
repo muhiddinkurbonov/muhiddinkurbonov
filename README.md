@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhiddinkurbonov](https://github.com/muhiddinkurbonov)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Git, Bash**
 
 - 📫 How to reach me **muhiddindc@gmail.com**
 
